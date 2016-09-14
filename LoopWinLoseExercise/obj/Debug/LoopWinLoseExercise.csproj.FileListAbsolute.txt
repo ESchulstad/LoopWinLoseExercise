@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopWinLoseExercise\LoopWinLoseExercise\bin\Debug\LoopWinLoseExercise.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopWinLoseExercise\LoopWinLoseExercise\bin\Debug\LoopWinLoseExercise.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopWinLoseExercise\LoopWinLoseExercise\bin\Debug\LoopWinLoseExercise.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopWinLoseExercise\LoopWinLoseExercise\obj\Debug\LoopWinLoseExercise.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopWinLoseExercise\LoopWinLoseExercise\obj\Debug\LoopWinLoseExercise.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LoopWinLoseExercise\LoopWinLoseExercise\obj\Debug\LoopWinLoseExercise.pdb
